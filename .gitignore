@@ -1,0 +1,12 @@
+# 第三方源码，由 setup.sh 下载
+MoneyPrinterTurbo/
+
+# 本机字体探测结果
+.font-name
+
+# 成片与中间产物
+sample/成片/
+*.mp4
+
+.DS_Store
+__pycache__/
